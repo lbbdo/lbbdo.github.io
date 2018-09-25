@@ -7,7 +7,7 @@
 - Create tools for the given technologies to help the ease of use of the general public
 - Teach the value of each technology and 
 ### Goals
-- Create an autonomous econonmy and spread the growth of the space in the state of Louisiana
+- Create an decentralized autonomous organization and a decentralized econonmy, as well spread the growth of Bitcoin, Blockchain, and Decentralization Ogranizations in the state of Louisiana
 - Create an opensource blockchain application to serve the community's needs
 
 ### Goverance
